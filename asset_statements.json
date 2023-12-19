@@ -1,0 +1,5 @@
+[
+  {
+  "include": "https://nest-fido2.onrender.com/.well-known/assetlinks.json"
+  }
+]
