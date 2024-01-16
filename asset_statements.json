@@ -1,5 +1,8 @@
 [
   {
   "include": "https://nest-fido2.onrender.com/.well-known/assetlinks.json"
+  },
+  {
+  "include": "https://fido-home.telluric.guru/.well-known/assetlinks.json"
   }
 ]
