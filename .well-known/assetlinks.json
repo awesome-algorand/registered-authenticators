@@ -16,6 +16,19 @@
     ],
     "target": {
       "namespace": "android_app",
+      "package_name": "co.algorand.auth.example",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
       "package_name": "foundation.algorand.demo",
       "sha256_cert_fingerprints": [
         "47:CC:4E:EE:B9:50:59:A5:8B:E0:19:45:CA:0A:6D:59:16:F9:A9:C2:96:75:F8:F3:64:86:92:46:2B:7D:5D:5C"
@@ -31,6 +44,7 @@
       "namespace": "android_app",
       "package_name": "com.anonymous.rocca",
       "sha256_cert_fingerprints": [
+        "5C:47:50:26:41:B9:6B:4E:1B:3A:46:FE:86:31:9E:01:8C:66:06:55:51:2D:5B:4C:A6:8D:CD:0C:3E:F8:AD:4D",
         "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
