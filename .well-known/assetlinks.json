@@ -42,6 +42,19 @@
     ],
     "target": {
       "namespace": "android_app",
+      "package_name": "com.anonymous.rocca.test",
+      "sha256_cert_fingerprints": [
+        "40:19:04:68:72:FE:28:74:F7:A6:D0:E1:63:EC:38:42:0B:4F:0B:C7:D8:90:5B:97:CD:68:64:0F:26:89:E7:17"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
       "package_name": "com.anonymous.rocca",
       "sha256_cert_fingerprints": [
         "5C:47:50:26:41:B9:6B:4E:1B:3A:46:FE:86:31:9E:01:8C:66:06:55:51:2D:5B:4C:A6:8D:CD:0C:3E:F8:AD:4D",
